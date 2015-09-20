@@ -1,0 +1,18 @@
+{
+  "name": "listview",
+  "version": "0.0.0",
+  "description": "A generic list view for Backbone.js applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": "",
+  "author": "Kresimir Antolic (@kantolic)",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-jshint": "~0.6.2",
+    "grunt-qunit-istanbul": "~0.1.3",
+    "grunt-contrib-clean": "~0.5.0"
+  }
+}
